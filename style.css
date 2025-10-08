@@ -1,0 +1,11 @@
+*{box-sizing:border-box}
+body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin:0; background:#f8fafc; color:#0f172a}
+.container{max-width:900px;margin:0 auto;padding:24px}
+.site-header{background:#fff;border-bottom:1px solid #e6eef6}
+.site-header h1{margin:0}
+.muted{color:#6b7280}
+.hero{padding:32px 0}
+.btn{display:inline-block;padding:10px 14px;background:#4f46e5;color:#fff;border-radius:8px;text-decoration:none}
+.projects{list-style:none;padding:0}
+.projects li{padding:8px 0}
+.site-footer{border-top:1px solid #e6eef6;padding:16px;text-align:center;margin-top:32px}
